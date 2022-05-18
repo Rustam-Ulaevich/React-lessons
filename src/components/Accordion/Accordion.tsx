@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-type PropsType = {
+export type PropsType = {
     title: string
     body: string
     menu: boolean
@@ -14,7 +14,7 @@ export function Accordion(props: PropsType ) {
     </div>
 }
 
-type AccordionTitleType ={
+export type AccordionTitleType ={
     title: string
     onClick: () => void
 }

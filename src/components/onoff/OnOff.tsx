@@ -1,6 +1,6 @@
 type PropsType = {
     on: boolean
-    setOn: (on: boolean)=>void
+    onChange: (on: boolean)=>void
 }
 
 export function OnOff(props: PropsType){
@@ -37,9 +37,9 @@ export function OnOff(props: PropsType){
 
     return <div>
         <div style={onStyle}
-             onClick={ () => {props.setOn(!props.on)}}>On</div>
+             onClick={ () => {props.onChange(true)}}>On</div>
         <div style={offStyle}
-             onClick={ () => {props.setOn(!props.on)}}>Off</div>
+             onClick={ () => {props.onChange(false)}}>Off</div>
         <br/>
 
         <div style={lampStyle}>lamp</div>
