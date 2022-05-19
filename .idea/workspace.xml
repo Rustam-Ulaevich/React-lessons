@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39b78f70-73d1-4534-8617-e5d895ec48c5" name="Changes" comment="Using storybook">
+      <change afterPath="$PROJECT_DIR$/src/components/homework/componentsHomeWork/TextBody.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/rating/UncontrolledRating.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Accordion/Accordion.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/homework/componentsHomeWork/TextBody.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/homework/componentsHomeWork/TextBody.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/rating/UncontrolledRating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/rating/UncontrolledRating.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="23RqjABi9KlU8TUdAqcW2BLZ3Ua" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/homework/componentsHomeWork" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\homework\componentsHomeWork" />
+      <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\Accordion" />
+    </key>
+    <key name="es6.move.members.recent.items">
+      <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\rating\Reducer.tsx" />
+      <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\Accordion.tsx" />
+      <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\Rating.tsx" />
+      <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\Rating.tsx" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\Accordion" />
+      <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\onoff" />
+      <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\rating" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.test">
+    <configuration name="storybook" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.storybook" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39b78f70-73d1-4534-8617-e5d895ec48c5" name="Changes" comment="" />
+      <created>1641707389580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641707389580</updated>
+      <workItem from="1641707391799" duration="308000" />
+      <workItem from="1641707801356" duration="11897000" />
+      <workItem from="1641735720303" duration="21209000" />
+      <workItem from="1643121945249" duration="4443000" />
+      <workItem from="1643128531455" duration="5304000" />
+      <workItem from="1643859218707" duration="9270000" />
+      <workItem from="1643947790669" duration="16354000" />
+      <workItem from="1644648897597" duration="1452000" />
+      <workItem from="1644730915249" duration="528000" />
+      <workItem from="1644731473060" duration="4894000" />
+      <workItem from="1644822784138" duration="2400000" />
+      <workItem from="1644853572580" duration="296000" />
+      <workItem from="1644853988623" duration="64000" />
+      <workItem from="1644981791727" duration="2279000" />
+      <workItem from="1644992044276" duration="31000" />
+      <workItem from="1644992127968" duration="3094000" />
+      <workItem from="1645023359436" duration="600000" />
+      <workItem from="1645087386592" duration="104000" />
+      <workItem from="1645087509129" duration="3000" />
+      <workItem from="1645087538432" duration="11435000" />
+      <workItem from="1645154394320" duration="21945000" />
+      <workItem from="1645247525579" duration="6698000" />
+      <workItem from="1650877664842" duration="7156000" />
+      <workItem from="1652869895645" duration="6983000" />
+      <workItem from="1652886017582" duration="199000" />
+      <workItem from="1652897961973" duration="1870000" />
+      <workItem from="1652931537865" duration="5300000" />
+    </task>
+    <task id="LOCAL-00001" summary="Create storybook">
+      <created>1652871588279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652871588279</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Using storybook">
+      <created>1652886209028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652886209028</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create storybook" />
+    <MESSAGE value="Using storybook" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using storybook" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
