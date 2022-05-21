@@ -21,7 +21,8 @@ export type AccordionTitleType ={
 
 
  function AccordionTitle(props: AccordionTitleType) {
-    return <div onClick={() => {props.onClick()}}>{props.title}</div>
+
+    return <h3 onClick={(e) => {props.onClick()}}>{props.title}</h3>
 }
 
 type AccordionBodyType ={

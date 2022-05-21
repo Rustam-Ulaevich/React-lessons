@@ -26,6 +26,7 @@ function App() {
         {/*              setValue={setNewComp}/>*/}
 
         <UncontrolledRating />
+        <NewComponent2/>
 
         {/*<OnOff on={on} setOn={setOn}/>*/}
 

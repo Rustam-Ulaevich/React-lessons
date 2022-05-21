@@ -3,6 +3,7 @@ import {useState} from 'react'
 type TextBodyPropsType = {
     body: string
     garmon: boolean
+    onClick: ()=>void
 }
 
 export function TextBody(props: TextBodyPropsType){
@@ -24,6 +25,6 @@ type StartPropsType = {
 
 function Stars(props: StartPropsType) {
     return <span onClick={ () => {props.setRating()}}>
-        {props.good ? <b>O</b> : 'o'}
+        {props.good ? <b>O</b> : ' 0 '}
     </span>
 }

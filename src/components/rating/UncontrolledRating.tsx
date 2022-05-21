@@ -1,6 +1,9 @@
 import React, {useState} from 'react';
 
 type RatingPropsType = {
+    selected: boolean
+    setValue: number
+    value: number
 }
 
 export function UncontrolledRating(props: RatingPropsType){
