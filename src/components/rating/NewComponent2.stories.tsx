@@ -9,4 +9,4 @@ export default {
 
 export const Vie = () => <NewComponent2/>;
 
-export const someFunction = () => <input value={111}/>
+export const someFunction = () => <input defaultValue={111} onChange={()=>console.log(1)}/>

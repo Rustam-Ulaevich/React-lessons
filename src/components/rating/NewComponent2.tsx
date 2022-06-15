@@ -21,7 +21,7 @@ export function NewComponent2(){
                                                         <li>a</li>
                                                         <li>b</li>
                                                         <li>c</li>
-                                                    </ul>
+                                                            </ul>
                                                     : ''
                                             }
 

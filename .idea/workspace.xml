@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39b78f70-73d1-4534-8617-e5d895ec48c5" name="Changes" comment="Using storybook">
-      <change afterPath="$PROJECT_DIR$/src/components/homework/componentsHomeWork/TextBody.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/rating/NewComponent2.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/rating/NewComponent2.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/rating/UncontrolledRating.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Accordion/Accordion.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/homework/componentsHomeWork/TextBody.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/homework/componentsHomeWork/TextBody.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/rating/UncontrolledRating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/rating/UncontrolledRating.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/rating/NewComponent2.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/rating/NewComponent2.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/rating/NewComponent2.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/rating/NewComponent2.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +129,8 @@
       <workItem from="1652886017582" duration="199000" />
       <workItem from="1652897961973" duration="1870000" />
       <workItem from="1652931537865" duration="9582000" />
-      <workItem from="1653114842996" duration="7729000" />
+      <workItem from="1653114842996" duration="11050000" />
+      <workItem from="1655274858785" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="Create storybook">
       <created>1652871588279</created>
@@ -159,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652952218599</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Using storybook">
+      <created>1653151654985</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653151654985</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
