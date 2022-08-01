@@ -1,16 +1,24 @@
 import React, { useState } from 'react'
-export type PropsType = {
+
+
+type ItemType = {
     title: string
-    body: string
-    menu: boolean
-    setMenu: (value: boolean) => void
+    value: string
 }
 
-export function Accordion(props: PropsType ) {
+type AccordionType = {
+    title: string
+    menu: boolean
+    setMenu: (value: boolean) => void
+    items: ItemType[]
+    onClick: () => void
+}
+
+export function Accordion(props: AccordionType ) {
     return <div>
         <AccordionTitle title={props.title}
                         onClick={ ()=> props.setMenu(!props.menu)}/>
-        {!props.menu && <AccordionBody body={props.body}/>}
+        {!props.menu && <AccordionBody items={props.items} onClick={props.onClick}/>}
     </div>
 }
 
@@ -26,19 +34,13 @@ export type AccordionTitleType ={
 }
 
 type AccordionBodyType ={
-    body: string
+    items: ItemType[]
+    onClick: (value: any) => void
 }
 
 function AccordionBody(props: AccordionBodyType) {
-    return <div><div>{props.body}</div>
-    <div>
-        <ul>
-            <li>1</li>
-            <li>2</li>
-            <li>3</li>
-            <li>4</li>
-        </ul>
-    </div>
-    </div>
+    return <ul>
+        {props.items.map((i, index) => <li onClick={() => (alert(i.title == 'Rustam' ? i.title + ' men' : i.title + ' gerl'))} key={index}> {i.title} </li>)}
+    </ul>
 }
 

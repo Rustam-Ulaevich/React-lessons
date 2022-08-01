@@ -15,7 +15,7 @@ export function HomeWork(props: PropsType){
 
         <TextHeader header={props.textheader} onClick={()=>{setGarmon(!garmon)}}/>
         { !garmon && <div>
-        <TextBody body={props.textbody} garmon={true}/>
+        {/*<TextBody body={props.textbody} garmon={true}/>*/}
         {/*<TextBody body={props.textbody} garmon={true} rating={1}/>*/}
         {/*<TextBody body={props.textbody} garmon={true} rating={2}/>*/}
         {/*<TextBody body={props.textbody} garmon={true} rating={3}/>*/}

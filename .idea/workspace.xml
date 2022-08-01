@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39b78f70-73d1-4534-8617-e5d895ec48c5" name="Changes" comment="Using storybook">
+      <change afterPath="$PROJECT_DIR$/src/components/Accordion/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Select/Select.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Select/Select.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Select/Select.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Trening.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/input.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/rating/NewComponent2.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/rating/NewComponent2.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/rating/NewComponent2.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/rating/NewComponent2.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Accordion/Accordion.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/homework/HomeWork.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/homework/HomeWork.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/rating/Rating.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/rating/Rating.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,17 +28,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="TypeScript File" />
         <option value="CSS File" />
         <option value="TypeScript JSX File" />
-        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="23RqjABi9KlU8TUdAqcW2BLZ3Ua" />
   <component name="ProjectViewState">
@@ -38,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/homework/componentsHomeWork" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Select" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -51,6 +59,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\Select" />
       <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\homework\componentsHomeWork" />
       <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\Accordion" />
     </key>
@@ -61,6 +70,7 @@
       <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\Rating.tsx" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\stories" />
       <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\rating" />
       <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\Accordion" />
       <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\onoff" />
@@ -130,7 +140,13 @@
       <workItem from="1652897961973" duration="1870000" />
       <workItem from="1652931537865" duration="9582000" />
       <workItem from="1653114842996" duration="11050000" />
-      <workItem from="1655274858785" duration="658000" />
+      <workItem from="1655274858785" duration="6713000" />
+      <workItem from="1655379188373" duration="13561000" />
+      <workItem from="1655708851417" duration="596000" />
+      <workItem from="1655713452444" duration="15442000" />
+      <workItem from="1655789360748" duration="8223000" />
+      <workItem from="1659250219289" duration="7517000" />
+      <workItem from="1659266509235" duration="20774000" />
     </task>
     <task id="LOCAL-00001" summary="Create storybook">
       <created>1652871588279</created>
@@ -160,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653151654985</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Using storybook">
+      <created>1655276212278</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655276212278</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
