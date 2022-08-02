@@ -1,4 +1,5 @@
 .select span.main{
+    width: 60px;
     border: 1px solid black;
     display: inline-block;
     min-height: 20px;
@@ -7,15 +8,16 @@
 }
 
 .items {
+    width: 60px;
     position: absolute;
     padding: 5px;
-    border: 1px solid black;
+    border: 1px solid #74afea;
     border-radius: 5px;
     background-color: #c8f8f8;
 }
 
 .item.selected {
-    padding: 5px;
+    padding: 3px;
     background-color: #557df3;
     color: white;
 }

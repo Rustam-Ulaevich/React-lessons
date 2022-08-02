@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39b78f70-73d1-4534-8617-e5d895ec48c5" name="Changes" comment="Using storybook">
-      <change afterPath="$PROJECT_DIR$/src/components/Accordion/accordion.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Select/Select.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Select/Select.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Select/Select.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Trening.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/input.stories.tsx" afterDir="false" />
+    <list default="true" id="39b78f70-73d1-4534-8617-e5d895ec48c5" name="Changes" comment="Completed 15 lesson - Select (Select.tsx)">
+      <change afterPath="$PROJECT_DIR$/src/components/UncontrolledAccordion/reducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/ReactMemo.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Accordion/Accordion.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/homework/HomeWork.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/homework/HomeWork.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/rating/Rating.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/rating/Rating.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Select/Select.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Select/Select.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Select" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projects/Archakov_Blog/first-online-store" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -146,7 +137,10 @@
       <workItem from="1655713452444" duration="15442000" />
       <workItem from="1655789360748" duration="8223000" />
       <workItem from="1659250219289" duration="7517000" />
-      <workItem from="1659266509235" duration="20774000" />
+      <workItem from="1659266509235" duration="24042000" />
+      <workItem from="1659349189782" duration="5406000" />
+      <workItem from="1659411239011" duration="1613000" />
+      <workItem from="1659416181192" duration="7540000" />
     </task>
     <task id="LOCAL-00001" summary="Create storybook">
       <created>1652871588279</created>
@@ -183,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655276212278</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Completed 15 lesson - Select (Select.tsx)">
+      <created>1659335343462</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659335343462</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +205,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create storybook" />
     <MESSAGE value="Using storybook" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using storybook" />
+    <MESSAGE value="Completed 15 lesson - Select (Select.tsx)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed 15 lesson - Select (Select.tsx)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

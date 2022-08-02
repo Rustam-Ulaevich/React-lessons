@@ -28,19 +28,21 @@ export type AccordionTitleType ={
 }
 
 
- function AccordionTitle(props: AccordionTitleType) {
-
+ function AccordionTitleSecret(props: AccordionTitleType) {
     return <h3 onClick={(e) => {props.onClick()}}>{props.title}</h3>
 }
+const AccordionTitle = React.memo(AccordionTitleSecret)
 
 type AccordionBodyType ={
     items: ItemType[]
     onClick: (value: any) => void
 }
 
-function AccordionBody(props: AccordionBodyType) {
+function AccordionBodySecret(props: AccordionBodyType) {
     return <ul>
-        {props.items.map((i, index) => <li onClick={() => (alert(i.title == 'Rustam' ? i.title + ' men' : i.title + ' gerl'))} key={index}> {i.title} </li>)}
+        {props.items.map((i, index) =>
+            <li onClick={() => (alert(i.title == 'Rustam' ? i.title + ' men' : i.title + ' gerl'))} key={index}> {i.title} </li>)}
     </ul>
 }
+const AccordionBody = React.memo(AccordionBodySecret)
 
