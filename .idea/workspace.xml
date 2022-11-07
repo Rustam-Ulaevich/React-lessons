@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39b78f70-73d1-4534-8617-e5d895ec48c5" name="Changes" comment="Completed 15 lesson - Select (Select.tsx)">
-      <change afterPath="$PROJECT_DIR$/src/components/UncontrolledAccordion/reducer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/ReactMemo.stories.tsx" afterDir="false" />
+    <list default="true" id="39b78f70-73d1-4534-8617-e5d895ec48c5" name="Changes" comment="Completed 16 lesson - useState">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react_kabzda_kak_prosto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Select/SelectMemo.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/UseMemo.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Select/Select.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Select/Select.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Select/Select.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Select/Select.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/ReactMemo.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/ReactMemo.stories.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,35 +23,38 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="CSS File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="23RqjABi9KlU8TUdAqcW2BLZ3Ua" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projects/Archakov_Blog/first-online-store" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\IT\\IT_INCUBATOR\\react_kabzda_kak_prosto\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IT\IT_INCUBATOR\react_kabzda_kak_prosto\src\components\Select" />
@@ -140,7 +147,17 @@
       <workItem from="1659266509235" duration="24042000" />
       <workItem from="1659349189782" duration="5406000" />
       <workItem from="1659411239011" duration="1613000" />
-      <workItem from="1659416181192" duration="7540000" />
+      <workItem from="1659416181192" duration="20615000" />
+      <workItem from="1659503182804" duration="1699000" />
+      <workItem from="1660737852942" duration="835000" />
+      <workItem from="1661150266741" duration="6885000" />
+      <workItem from="1661175427558" duration="6060000" />
+      <workItem from="1661773198084" duration="3241000" />
+      <workItem from="1661831177749" duration="2323000" />
+      <workItem from="1661864305619" duration="1365000" />
+      <workItem from="1661924133316" duration="2760000" />
+      <workItem from="1662008392917" duration="1840000" />
+      <workItem from="1666259912698" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="Create storybook">
       <created>1652871588279</created>
@@ -184,7 +201,28 @@
       <option name="project" value="LOCAL" />
       <updated>1659335343462</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Completed 17 lesson - React.memo">
+      <created>1659441253046</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659441253046</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Completed 16 lesson - useReducer">
+      <created>1661176297664</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661176297664</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Completed 16 lesson - useState">
+      <created>1662009915714</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662009915714</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,13 +238,15 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create storybook" />
     <MESSAGE value="Using storybook" />
     <MESSAGE value="Completed 15 lesson - Select (Select.tsx)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed 15 lesson - Select (Select.tsx)" />
+    <MESSAGE value="Completed 17 lesson - React.memo" />
+    <MESSAGE value="Completed 16 lesson - useReducer" />
+    <MESSAGE value="Completed 16 lesson - useState" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed 16 lesson - useState" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

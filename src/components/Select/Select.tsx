@@ -4,6 +4,8 @@ import styles from './Select.module.css'
 type ItemsType = {
     title: string
     value: any
+    contry?: string
+    capital?: boolean
 }
 type SelectType = {
     value?: any
